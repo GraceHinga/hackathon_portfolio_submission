@@ -36,28 +36,11 @@ project-root/
 │       └── grace.jpg         # Profile photo
 ```
 
-## ⚠️ Important Notes
-
-- 🔗 **Broken Links**: Project demo and GitHub links are placeholders — update these with actual URLs.
-- 📄 **Resume File**: The current path (`C:\Users\Administrator\...`) is local-only. Replace with a relative path like:
-
-  ```html
-  href="assets/documents/Njambi_Hinga_CV.pdf"
-  ```
-
-- 📧 **Form Handling**: The contact form currently has no back-end logic. To make it functional, connect it to a server or use a service like **Formspree**, **Netlify Forms**, or **Google Forms**.
-
-## 🚀 Future Improvements
-
-- Add JavaScript for form validation and interactivity
-- Make the site fully responsive using media queries
-- Host projects on GitHub Pages or Vercel and link them
-- Add real backend integration for contact form and resume hosting
-- Incorporate animations or transitions for UX enhancement
+- 📧 **Form Handling**: The contact form currently has no back-end logic.
 
 ## 💼 Live Demo
 
-Coming soon...
+🚀 [Live Site on GitHub Pages](https://gracehinga.github.io/hackathon_portfolio_submission/)
 
 ## 📬 Contact
 
