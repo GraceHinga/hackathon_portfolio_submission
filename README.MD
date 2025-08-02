@@ -1,7 +1,3 @@
-Here’s a clean, professional, and practical `README.md` for your HTML portfolio project:
-
----
-
 # 🌐 Njambi Hinga - Developer Portfolio
 
 Welcome to the official portfolio repository of **Njambi Hinga** — an aspiring developer and software engineer passionate about front-end design, problem-solving, and building impactful digital solutions.
